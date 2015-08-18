@@ -1,6 +1,6 @@
-# trampolean
+# Gymkhana
 
-Suivi de l'expérience en direct
+[website](http://gymkhana-fr.github.io/site/)
 
 ## Template
 
