@@ -1,6 +1,6 @@
 # Gymkhana
 
-[repo](http://gymkhana-fr.github.io/site/)
+[repo](http://gymkhana-fr.github.io/site/)  
 [website](http://gymkhana-fr.github.io/site/)
 
 ## Template
