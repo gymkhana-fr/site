@@ -586,9 +586,10 @@ Hero
     color: #24374B;
 }
 .hero h1 {
-    margin: 200px 0 45px 0;
-    font-weight: 300;
+    margin: 250px 0 90px 0;
+    font-weight: 400;
     font-size: 45px;
+    color: #000;
 }
 .hero h1 span {
     display: inline-block;
